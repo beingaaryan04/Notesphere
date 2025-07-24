@@ -116,3 +116,6 @@ const NotebookHeader = ({ title, notebookId }: NotebookHeaderProps) => {
 };
 
 export default NotebookHeader;
+
+  )
+}
