@@ -109,7 +109,7 @@ const NotebookHeader = ({ title, notebookId }: NotebookHeaderProps) => {
               </DropdownMenuContent>
             </DropdownMenu>
           </div>
-        </div>
+        <p className="text-center text-sm text-gray-500">Notesphere can be inaccurate; please double-check its responses.</p>
       </div>
     </header>
   );
